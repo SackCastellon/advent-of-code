@@ -14,6 +14,7 @@ internal class PuzzleTest {
         Solution(me.sackcastellon.aoc.y2020.Day01, 471019, 103927824),
         Solution(me.sackcastellon.aoc.y2020.Day02, 655, 673),
         Solution(me.sackcastellon.aoc.y2020.Day03, 289, 5522401584),
+        Solution(me.sackcastellon.aoc.y2020.Day04, 170, 103),
         // Year 2021
         Solution(me.sackcastellon.aoc.y2021.Day01, 1121, 1065),
         Solution(me.sackcastellon.aoc.y2021.Day02, 1524750, 1592426537),
