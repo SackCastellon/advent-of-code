@@ -10,6 +10,9 @@ import kotlin.test.assertEquals
 internal class PuzzleTest {
 
     private val puzzles = listOf(
+        // Year 2020
+        Solution(me.sackcastellon.aoc.y2020.Day01, 471019, 103927824),
+        Solution(me.sackcastellon.aoc.y2020.Day02, 655, 673),
         // Year 2021
         Solution(me.sackcastellon.aoc.y2021.Day01, 1121, 1065),
         Solution(me.sackcastellon.aoc.y2021.Day02, 1524750, 1592426537),
