@@ -5,7 +5,6 @@ import java.nio.file.Path
 import kotlin.io.path.useLines
 
 object Day02 : Puzzle<Int> {
-
     override fun solve1(input: Path): Int {
         class Submarine1 : Submarine() {
             override fun down(x: Int) {
