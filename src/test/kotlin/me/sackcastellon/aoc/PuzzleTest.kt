@@ -18,6 +18,7 @@ internal class PuzzleTest {
         // Year 2021
         Solution(me.sackcastellon.aoc.y2021.Day01, 1121, 1065),
         Solution(me.sackcastellon.aoc.y2021.Day02, 1524750, 1592426537),
+        Solution(me.sackcastellon.aoc.y2021.Day03, 3901196, 4412188),
     )
 
     @TestFactory
