@@ -11,14 +11,14 @@ internal class PuzzleTest {
 
     private val puzzles = listOf(
         // Year 2020
-        Solution(me.sackcastellon.aoc.y2020.Day01, 471019, 103927824),
-        Solution(me.sackcastellon.aoc.y2020.Day02, 655, 673),
-        Solution(me.sackcastellon.aoc.y2020.Day03, 289, 5522401584),
-        Solution(me.sackcastellon.aoc.y2020.Day04, 170, 103),
+        Solution(me.sackcastellon.aoc.y2020.Day01, result1 = 471019, result2 = 103927824),
+        Solution(me.sackcastellon.aoc.y2020.Day02, result1 = 655, result2 = 673),
+        Solution(me.sackcastellon.aoc.y2020.Day03, result1 = 289, result2 = 5522401584),
+        Solution(me.sackcastellon.aoc.y2020.Day04, result1 = 170, result2 = 103),
         // Year 2021
-        Solution(me.sackcastellon.aoc.y2021.Day01, 1121, 1065),
-        Solution(me.sackcastellon.aoc.y2021.Day02, 1524750, 1592426537),
-        Solution(me.sackcastellon.aoc.y2021.Day03, 3901196, 4412188),
+        Solution(me.sackcastellon.aoc.y2021.Day01, result1 = 1121, result2 = 1065),
+        Solution(me.sackcastellon.aoc.y2021.Day02, result1 = 1524750, result2 = 1592426537),
+        Solution(me.sackcastellon.aoc.y2021.Day03, result1 = 3901196, result2 = 4412188),
     )
 
     @TestFactory
