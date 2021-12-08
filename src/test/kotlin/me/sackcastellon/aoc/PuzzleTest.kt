@@ -22,6 +22,7 @@ internal class PuzzleTest {
         Solution(me.sackcastellon.aoc.y2021.Day04, result1 = 82440, result2 = 20774),
         Solution(me.sackcastellon.aoc.y2021.Day05, result1 = 5632, result2 = 22213),
         Solution(me.sackcastellon.aoc.y2021.Day06, result1 = 352151, result2 = 1601616884019),
+        Solution(me.sackcastellon.aoc.y2021.Day07, result1 = 352331, result2 = -1),
     )
 
     @TestFactory
