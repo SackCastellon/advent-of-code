@@ -35,8 +35,8 @@ object Day06 : Puzzle<Long> {
 
         return finalMap.values.sum()
     }
-}
 
-private fun MutableMap<Int, Long>.add(time: Int, amount: Long) {
-    compute(time) { _, old -> (old ?: 0) + amount }
+    private fun MutableMap<Int, Long>.add(time: Int, amount: Long) {
+        compute(time) { _, old -> (old ?: 0) + amount }
+    }
 }
